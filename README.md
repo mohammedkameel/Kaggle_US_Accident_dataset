@@ -31,6 +31,9 @@ This is the main read me file which contains all the information about the count
 #### Cities by accident 
      cities_by_accident[:10].plot(kind ="barh")
      
+ ![cities buy accident](https://user-images.githubusercontent.com/56510494/192334023-68f6144c-7036-48e8-bb97-ba5f52cacb2b.PNG)
+
+     
 
   
 
