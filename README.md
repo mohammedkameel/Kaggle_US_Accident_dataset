@@ -8,6 +8,24 @@ This is the main read me file which contains all the information about the count
 
 - EDA on US countrywide car accident dataset, which covers 49 states of the USA.
 - Used Pandas and Seaborn libabry 
+***************************************************************************
+
+#### We have use open datasets to load kaggale data into jupyter and import 
+-> pip install opendatasets --upgrade --quiet 
+
+-> import opendatasets as od -- hit
+
+    **dataset_url = 'https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents'**
+    **od.download('https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents')** 
+    
+ #### Saving file as data_filename variable 
+     data_filename = './us-accidents/US_Accidents_Dec21_updated.csv'
+     
+ #### information about below records
+  ** df.tail() **
+  
+     
+
 
 
 
