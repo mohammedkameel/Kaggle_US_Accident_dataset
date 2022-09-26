@@ -27,7 +27,12 @@ This is the main read me file which contains all the information about the count
   ![imagetail](https://user-images.githubusercontent.com/56510494/192331993-41024bf8-1d45-4062-b59e-ea98d3748f09.PNG)
 
      
+##   Plotting section
+#### Cities by accident 
+     cities_by_accident[:10].plot(kind ="barh")
+     
 
+  
 
 
 
