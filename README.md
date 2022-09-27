@@ -34,20 +34,29 @@ This is the main read me file which contains all the information about the count
  ![cities buy accident](https://user-images.githubusercontent.com/56510494/192334023-68f6144c-7036-48e8-bb97-ba5f52cacb2b.PNG)
  
  #### USA Population by cities 2022
-      ![populationusa](https://user-images.githubusercontent.com/56510494/192597038-64306646-357b-4837-85ac-edb14b23c47b.PNG)
+ ![populationusa](https://user-images.githubusercontent.com/56510494/192597038-64306646-357b-4837-85ac-edb14b23c47b.PNG)
       
  #### What are the most populated states in the United States? Here is a list of the top ten most populated states in the country:
 
-   California (Population: 39,613,493)
-   Texas (Population: 29,730,311)
-   Florida (Population: 21,944,577)
-   New York (Population: 19,299,981)
-   Pennsylvania (Population: 12,804,123)
-   Illinois (Population: 12,569,321)
-   Ohio (Population: 11,714,618)
-   Georgia (Population: 10,830,007)
-   North Carolina (Population: 10,701,022)
-   Michigan (Population: 9,992,427)
+   1. California (Population: 39,613,493) 
+   
+   2. Texas (Population: 29,730,311) 
+   
+   3. Florida (Population: 21,944,577) 
+   
+   4. New York (Population: 19,299,981)  
+   
+   5. Pennsylvania (Population: 12,804,123)  
+   
+   6. Illinois (Population: 12,569,321)  
+   
+   7. Ohio (Population: 11,714,618)  
+   
+   8. Georgia (Population: 10,830,007)  
+   
+   9. North Carolina (Population: 10,701,022)  
+   
+   10. Michigan (Population: 9,992,427)
 
  
 
