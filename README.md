@@ -36,13 +36,13 @@ This is the main read me file which contains all the information about the count
  #### USA Population by cities 2022
  ![populationusa](https://user-images.githubusercontent.com/56510494/192597038-64306646-357b-4837-85ac-edb14b23c47b.PNG)
       
- #### What are the most populated states in the United States? Here is a list of the top ten most populated states in the country:
+ #### What are the most populated states vs cities in the United States? Here is a list of the top ten most populated states in the country:
 
-   1. California (Population: 39,613,493) 
+   1. California (Population: 39,613,493) <> Los Angeles (Population: 3,971,883)
    
    2. Texas (Population: 29,730,311) 
    
-   3. Florida (Population: 21,944,577) 
+   3. Florida (Population: 21,944,577) <> Miami (Population: 441,003) <> Orlando (Population: 309,154)
    
    4. New York (Population: 19,299,981)  
    
