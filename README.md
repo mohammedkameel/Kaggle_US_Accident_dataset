@@ -38,11 +38,11 @@ This is the main read me file which contains all the information about the count
       
  #### What are the most populated states vs cities in the United States? Here is a list of the top ten most populated states in the country:
 
-   1. California (Population: 39,613,493) <> Los Angeles (Population: 3,971,883)
+   1. California (Population: 39,613,493) <> City Los Angeles (Population: 3,971,883)(3.9 Million) 
    
-   2. Texas (Population: 29,730,311) 
+   2. Texas (Population: 29,730,311) <> City: Houston (Population: 2,307,345)(2.9 Million), Dallas (Population : 1,308,814)(1.3 Milion)
    
-   3. Florida (Population: 21,944,577) <> Miami (Population: 441,003) <> Orlando (Population: 309,154)
+   3. Florida (Population: 21,944,577) <> City Miami (Population: 441,003)(4 Lakhs) <> Orlando (Population: 309,154)(3 Lakhs)
    
    4. New York (Population: 19,299,981)  
    
