@@ -59,8 +59,46 @@ This is the main read me file which contains all the information about the count
    10. Michigan (Population: 9,992,427)
 
  
+### Observation
 
+
+NewYork being highest population there are no records. Miami has highest accidents however population is 4 lakhs as compare to Los Angeles population of 3Million in Califonia.
+Orlando(Population: 3Lakhs), Dallas(Texas), Houston(Texas) at second and 3rd place. 
+
+##### Now to see cities where accidents is more than 1000 compare to low cities with accidents and check them with distplot/histplot also with log scale. 
+
+    high_accident_cities = cities_by_accident[cities_by_accident >= 1000]
+  
+  
+    less_accident_cities = cities_by_accident[cities_by_accident < 1000]
+
+##### Total count of cities  len(high_accident_cities) is 496
+
+
+
+
+#### Less than 5% of cities have yearly 1000 accidents yearly. 
+
+   len(high_accident_cities)/len(cities) 
+   
+   
+   
+   
+
+#### Plotting for High accident cities 
+
+     sns.distplot(high_accident_cities) 
      
+![high accident](https://user-images.githubusercontent.com/56510494/193461929-4a218889-b473-4f98-8190-083e0e0feb73.PNG)
+
+     sns.distplot(less_accident_cities) 
+     
+![low accident](https://user-images.githubusercontent.com/56510494/193461963-ca939a3a-f673-4ec4-98bb-ab43052fbf6a.PNG)
+
+
+     sns.histplot(cities_by_accident, log_scale = True) 
+     
+![logscale](https://user-images.githubusercontent.com/56510494/193462011-7733ddd6-5c2f-42b5-b42d-f99033258fd5.PNG)
 
   
 
