@@ -48,15 +48,7 @@ This is the main read me file which contains all the information about the count
    
    5. Pennsylvania (Population: 12,804,123)  
    
-   6. Illinois (Population: 12,569,321)  
-   
-   7. Ohio (Population: 11,714,618)  
-   
-   8. Georgia (Population: 10,830,007)  
-   
-   9. North Carolina (Population: 10,701,022)  
-   
-   10. Michigan (Population: 9,992,427)
+  
 
  
 ### Observation
@@ -72,14 +64,15 @@ Orlando(Population: 3Lakhs), Dallas(Texas), Houston(Texas) at second and 3rd pla
   
     less_accident_cities = cities_by_accident[cities_by_accident < 1000]
 
-##### Total count of cities  len(high_accident_cities) is 496
+#### Total count of cities having high accidents(<1000) 
 
+     len(high_accident_cities) is 496
 
 
 
 #### Less than 5% of cities have yearly 1000 accidents yearly. 
 
-   len(high_accident_cities)/len(cities) 
+     len(high_accident_cities)/len(cities) 
    
    
    
